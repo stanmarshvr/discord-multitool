@@ -10,5 +10,9 @@ You can either download a binary from releases (it's not obfuscated or anything,
 ## Features:
 Here are the current features of the tool
 - Check Token - Checks if a token is valid
-- Nuke Account - Changes the account's bio, pronouns, and display name to "FUCKED BY https://github.com/stanmarshvr/discord-multitool" (you can change the code and customize this if you want), then spams a custom message that you choose in every DM the token has.
+- Nuke Account - Spams a custom message that you choose in every DM the token has, and changes the user's profile.
 As I said in the about section, this is still under development and I will be adding a lot more later. Pull requests and issues are welcome.
+
+
+
+By the way, if you're reading this right now, I haven't uploaded the binary or source code yet, but I will be doing that soon. I'm currently finishing up some stuff and getting it ready as I write this.
