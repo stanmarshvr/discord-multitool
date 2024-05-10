@@ -1,0 +1,17 @@
+D:\discord-multitool\discord-multitool\obj\Debug\net8.0\discord-multitool.GeneratedMSBuildEditorConfig.editorconfig
+D:\discord-multitool\discord-multitool\obj\Debug\net8.0\discord-multitool.AssemblyInfoInputs.cache
+D:\discord-multitool\discord-multitool\obj\Debug\net8.0\discord-multitool.AssemblyInfo.cs
+D:\discord-multitool\discord-multitool\obj\Debug\net8.0\discord-multitool.csproj.CoreCompileInputs.cache
+D:\discord-multitool\discord-multitool\bin\Debug\net8.0\discord-multitool.exe
+D:\discord-multitool\discord-multitool\bin\Debug\net8.0\discord-multitool.deps.json
+D:\discord-multitool\discord-multitool\bin\Debug\net8.0\discord-multitool.runtimeconfig.json
+D:\discord-multitool\discord-multitool\bin\Debug\net8.0\discord-multitool.dll
+D:\discord-multitool\discord-multitool\bin\Debug\net8.0\discord-multitool.pdb
+D:\discord-multitool\discord-multitool\obj\Debug\net8.0\discord-multitool.dll
+D:\discord-multitool\discord-multitool\obj\Debug\net8.0\refint\discord-multitool.dll
+D:\discord-multitool\discord-multitool\obj\Debug\net8.0\discord-multitool.pdb
+D:\discord-multitool\discord-multitool\obj\Debug\net8.0\discord-multitool.genruntimeconfig.cache
+D:\discord-multitool\discord-multitool\obj\Debug\net8.0\ref\discord-multitool.dll
+D:\discord-multitool\discord-multitool\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\discord-multitool\discord-multitool\obj\Debug\net8.0\discord-multitool.csproj.AssemblyReference.cache
+D:\discord-multitool\discord-multitool\obj\Debug\net8.0\discord-multitool.csproj.CopyComplete

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "JlqqF5hzBvVNlsVjjt/ORpdXQOZdQMn5OP2sJs8UJuLIpxVeNG4M4ZgJV5lLm43lwpz7XwbZe3HB8FK7OGYaBA==",
+  "success": true,
+  "projectFilePath": "D:\\discord-multitool\\discord-multitool\\discord-multitool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moonuser0\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: There is not enough space on the disk.\r\n"
+    }
+  ]
+}
