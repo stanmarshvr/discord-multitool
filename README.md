@@ -16,4 +16,7 @@ You can either download a binary from releases (it's not obfuscated or anything,
 Here are the current features of the tool
 - Check Token - Checks if a token is valid
 - Nuke Account - Changes the user's bio and pronouns, spams a custom message that you choose in every DM the user has open, then closes the DMs and blocks the users in them
+
+
+
 As I said in the about section, this is still under development and I will be adding a lot more later. Pull requests and issues are welcome.
